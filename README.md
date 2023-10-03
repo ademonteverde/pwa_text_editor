@@ -25,6 +25,10 @@ The following screenshots follow the path of the preview video above, so you can
 
 [https://github.com/ademonteverde/pwa_text_editor](hhttps://github.com/ademonteverde/pwa_text_editor)
 
+## Link to application:
+
+[https://shrouded-badlands-70593-5d90e2e2209f.herokuapp.com/](https://shrouded-badlands-70593-5d90e2e2209f.herokuapp.com/)
+
 ## License
 
 This project is licensed under the [MIT](https://github.com/ademonteverde/pwa_text_editor/blob/main/LICENSE) License.
